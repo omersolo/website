@@ -1,0 +1,12 @@
+name: "OMER SOLODOCH"
+navbar:
+  title: "OMER SOLODOCH"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html

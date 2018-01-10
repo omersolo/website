@@ -1,0 +1,6 @@
+---
+title: "HOME"
+---
+
+Welcome to my website!
+I am a Ph.D. student in political science at Tel Aviv University. <https://social-sciences.tau.ac.il/poli-site/omer-solodoch>.
